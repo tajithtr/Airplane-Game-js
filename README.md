@@ -42,6 +42,7 @@ Flying-Adventure/
 
 
 ## 🙌 Developed by Tajith Rashidha
+Airplane icon and assets belong to their respective creators.
 
 
 
