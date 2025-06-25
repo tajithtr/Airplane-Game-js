@@ -1,6 +1,6 @@
 # ✈️ Flying Adventure Game
 
-<img src="assets/screenshot.png" alt="Game Screenshot" width="800">
+<img src="assets/Game_screenshot.png" alt="Game Screenshot" width="800">
 
 A fun and interactive airplane flying game built using **HTML**, **CSS**, and **JavaScript**. Inspired by Flappy Bird, this game challenges players to guide a plane through endless obstacles and score as high as possible!
 
