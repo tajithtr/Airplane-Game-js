@@ -40,9 +40,9 @@ Flying-Adventure/
     └── favicon.ico
 ```
 
-🙌 Credits
-Developed by Tajith Rashidha
-Airplane icon and assets belong to their respective creators.
+
+##Developed by Tajith Rashidha
+
 
 
 
